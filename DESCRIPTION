@@ -1,0 +1,13 @@
+Package: ggAnnotate
+Type: Package
+Title: Extensions for annotating ggplot2 graphics.
+Version: 1.0
+Date: 2018-07-28
+Author: Alexander Azzo
+Maintainer: Alexander Azzo <azzoa@vcu.edu>
+Description: Extensions for adding annotations, statistical 
+    comparisons, themes, and other missing features to the 
+    ggplot2 graphics package.  Helpful for allowing direct 
+    output of scientific graphs for publication.
+License: MIT
+RoxygenNote: 6.0.1
